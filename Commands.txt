@@ -1,0 +1,10 @@
+git clone <link>
+
+git status 
+
+git init 
+
+git add <filename>/ git add .
+
+
+
