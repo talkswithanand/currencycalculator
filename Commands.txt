@@ -6,5 +6,10 @@ git init
 
 git add <filename>/ git add .
 
+git commit -m "message"
 
+ git remote add origin <github url>
 
+git push origin master
+
+git --help
